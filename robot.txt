@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://access.unram.ac.id/-/slot-gacor/sitemap.xml
